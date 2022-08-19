@@ -96,8 +96,7 @@ const Navbar = () => {
               style={{ margin: "auto" }}
             >
               <a
-                href="http://braina.live/contact.php"
-                target="_blank"
+                href="/contact-us"
                 className="btn btn-light"
                 id="header-button"
               >

@@ -64,7 +64,7 @@ const Home = () => {
           </a>
         </div>
         <div className="col-md-2 ps-md-5">
-          <a href="http://braina.live/contact.php" target="_blank">
+          <a href="/contact-us">
             <button className="btn btn-light" id="focii-host-button">
               Contact Us
             </button>
