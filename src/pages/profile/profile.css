@@ -1,0 +1,21 @@
+#page-heading{
+    font-size: 4rem;
+}
+#up-heading{
+    font-size: 2rem;
+}
+#header-button{
+    width: 150px;
+    height: 40px;
+}
+#form-container{
+    text-align: left;
+}
+#profile-detail-section{
+    background-color: #161926;
+    color: white;
+}
+#page-logo-div{
+    text-align: end;
+   
+}

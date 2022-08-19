@@ -1,0 +1,34 @@
+*{
+    margin-top: 5px;
+}
+#page-logo-div{
+    text-align: end;
+   
+}
+#page-heading{
+    color: white;
+    font-size: 4rem;
+    font-weight: 600;
+
+}
+#mainHome{
+    padding-top: 20px;
+    background-color: #1A1B2A;
+    height: 100vh;
+   
+}
+p{
+    color: white;
+}
+#mainHeading{
+    font-size: 54px;
+    text-align: left;
+    line-height: 64px;
+}
+#shortHeading{
+    font-size: 22px;
+    text-align: left;
+}
+#focii-host-button{
+    width: 150px;
+}
