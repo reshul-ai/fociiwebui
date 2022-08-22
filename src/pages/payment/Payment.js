@@ -19,14 +19,21 @@ const Payment = () => {
   };
 
   return (
-    <div className="container-fluid pb-5">
+    <>
+          <section className="gradient-custom">
+          <div className="container-fluid pb-5">
       <div className="row mt-3">
-        <div className="col-md-6" style={{ paddingTop: "80px" }}>
-          <img src={commonlogo} width="450px" height="350px" />
+        <div className="col-lg-7 text-center">
+        <img
+                      src={commonlogo}
+                      className="img img-fluid p-2"
+                      alt="learning"
+                      style={{ width: 550 + "px" }}
+                    />
         </div>
-        <div className="col">
+        <div className="col pt-lg-0 pt-sm-5">
           <div className="container-fluid">
-            <div className="row text-light">
+            <div className="row text-center text-light">
               <div className="col">
                 <h2>Payment Details</h2>
               </div>
@@ -110,6 +117,8 @@ const Payment = () => {
         </div>
       </div>
     </div>
+          </section>
+    </>
   );
 };
 

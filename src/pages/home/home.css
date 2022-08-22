@@ -1,7 +1,7 @@
 /* *{
     margin-top: 5px;
 } */
-#page-logo-div{
+/* #page-logo-div{
     text-align: end;
    
 }
@@ -15,8 +15,9 @@
     padding-top: 20px;
     background-color: #1A1B2A;
     height: 100vh;
+    margin-bottom: 50px;
    
-}
+} */
 p{
     color: white;
 }
